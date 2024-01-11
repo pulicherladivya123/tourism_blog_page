@@ -1,0 +1,38 @@
+#s1{
+    background-color: rgb(123, 215, 215);
+    width: 200px;
+    margin-right: 50px;
+    border: 2px solid;
+    margin-left: 35px;
+}
+#s2{
+    background-color: rgb(233, 158, 88);
+    width: 200px;
+    margin-right: 50px;
+    border: 2px solid;
+}
+#s3{
+    background-color: rgb(205, 228, 102);
+    width: 200px;
+    border: 2px solid;
+    margin-right: 50px;
+}
+
+
+#Special Offers div{
+    display: inline-block;
+}
+img{
+    width:180px;
+    height:120px;
+    margin: 10px;
+}
+#Special Offers h1,p{
+    text-align: center; 
+    color:black;
+}
+h1{
+    text-align: center;
+    color:chocolate
+    
+}
